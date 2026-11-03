@@ -1,5 +1,5 @@
-![A Little Old School Synthesis in the Age of AI](https://github.com/MantisAudioAI/mantisaudio-ai/blob/main/Articles/devlog-01-banner.jpeg))
-https://github.com/MantisAudioAI/mantisaudio-ai/blob/main/Articles/devlog-01-banner.jpeg# Developer Log #01 — Chasing the Organic Sound in a Digital World
+![Chasing the Organic Sound in a Digital World](devlog-01-banner.jpeg)
+# Developer Log #01 — Chasing the Organic Sound in a Digital World
 
 ### A little old school synthesis in the age of AI
 
