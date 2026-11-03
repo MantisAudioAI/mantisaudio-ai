@@ -3,6 +3,7 @@
 Welcome to our technical logbook exploring next-generation interactive audio tools. 
 
 ### 📄 Latest Articles
+   - [Developer Log #02 — The Interface Is the Canvas](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-02)
 * [Developer Log #01 — Chasing the Organic Sound in a Digital World](./Articles/devlog-01)
 
 ---
