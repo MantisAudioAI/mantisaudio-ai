@@ -1,4 +1,11 @@
+---
+title: "Developer Log #02 — The Interface Is the Canvas"
+description: "Why my music software starts as a picture: 25 years of graphic design and comic art, applied to synth and drum machine interfaces."
+image: Articles/devlog-02-banner.png
+---
+
 ![The Interface Is the Canvas](devlog-02-banner.png)
+
 # Developer Log #02 — The Interface Is the Canvas
 
 ### Why my music software starts as a picture
