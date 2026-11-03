@@ -1,3 +1,4 @@
+![The Interface Is the Canvas](devlog-02-banner.png)
 # Developer Log #02 — The Interface Is the Canvas
 
 ### Why my music software starts as a picture
