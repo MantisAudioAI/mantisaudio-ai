@@ -62,7 +62,7 @@ And being honest about limits is part of the job. Those numbers come from a desk
 
 There's nothing wrong with AI generated code, and a single file app isn't automatically bad. The risk is shipping software without understanding its architecture, its dependencies, or how it fails.
 
-I use AI reguarly as a tool in combiantion with tradional coding software. But, I want to be able to explain every part of what I publish, and when something breaks, I want to know why.
+I use AI regularly as a tool, in combination with traditional coding software. But I want to be able to explain every part of what I publish, and when something breaks, I want to know why.
 
 #### Trust is the real feature
 
