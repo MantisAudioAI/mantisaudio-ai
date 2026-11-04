@@ -1,3 +1,11 @@
+---
+title: "Developer Log #02 — The Interface Is the Canvas"
+description: "Why my music software starts as a picture: 25 years of graphic design and comic art, applied to synth and drum machine interfaces."
+image: Articles/devlog-02-banner.png
+---
+
+![The Interface Is the Canvas](devlog-02-banner.png)
+
 # Developer Log #02 — The Interface Is the Canvas
 
 ### Why my music software starts as a picture
@@ -18,7 +26,7 @@ My software comes out of the same toolbox:
 - **NYC '94** wears a skyline across the top of the chassis, because the city and the era are part of the sound.
 - **Lofi Hip-Hop Lab v2** has a cartridge slot and a 4 track cassette deck, because loading a sound should feel like loading a tape.
 - **2K Platinum Synth** browses presets as CD jewel cases, because in the early 2000s that's how you found new sounds: flipping through discs.
-- - **The FX pedal collection** has 26 pedals, and every one is a small piece of illustration: a fox on the Fuzz, an owl on the Filter, a turtle on Slow Down. Each pedal is its own little album cover.
+- **The FX pedal collection** has 26 pedals, and every one is a small piece of illustration: a fox on the Fuzz, an owl on the Filter, a turtle on Slow Down. Each pedal is its own little album cover.
 
 
 None of that is decoration for decoration's sake. **Visual identity tells you what an instrument is for before you press a single key.**
@@ -36,8 +44,6 @@ It also keeps me honest. If a feature doesn't have a natural place on the panel,
 I'm drawn to skeuomorphism, the old school idea that software should resemble real objects. A lot of modern apps moved toward flat, clean, interchangeable screens. Those work. But they rarely make you feel anything.
 
 I want my instruments to have a time, a place, and a personality. A 1994 New York sampler shouldn't look like a chrome 2002 rompler workstation, and neither one should look like a dusty lo-fi tape box.
-
-//
 
 *More soon from the design table.*
 

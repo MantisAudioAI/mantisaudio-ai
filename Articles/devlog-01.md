@@ -1,6 +1,7 @@
+![Chasing the Organic Sound in a Digital World](devlog-01-banner.jpeg)
 # Developer Log #01 — Chasing the Organic Sound in a Digital World
 
-### A little old-school synthesis in the age of AI
+### A little old school synthesis in the age of AI
 
 One thing I've been exploring with my recent synthesizer projects is the intersection of **traditional sample-based synthesis, acoustic sound design, and modern AI-assisted software development.**
 
