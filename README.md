@@ -1,4 +1,5 @@
 <img width="160" alt="Mantis Audio AI - Logo 1" src="https://github.com/user-attachments/assets/e78ad5d8-a3ec-4f97-9f5c-7717fdfc12da" />
+
 # Mantis Audio AI — Developer Blog
 
 Welcome to our technical logbook exploring next-generation interactive audio tools. 
