@@ -28,7 +28,7 @@ There are no samples. The kick, snare, clap, hi-hats, toms, cowbell, and rimshot
 
 The sound is only half the story. The other half is the sequencer: per-step probability, global probability, and humanize controls.
 
-<video src="analog-83-demo.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/88cffcc7-d197-4bce-b2df-453ffc7ff486" controls width="100%"></video>
 
 #### Every step is a coin flip (and that's a good thing)
 
