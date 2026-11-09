@@ -1,3 +1,11 @@
+---
+title: "Developer Log #05 — Beyond the Clone"
+description: "AI made building synths easy. If anyone can clone classic gear, what should we build next?"
+image: Articles/devlog-05-banner.png
+---
+
+![Beyond the Clone](devlog-05-banner.png)
+
 # Developer Log #05 — Beyond the Clone
 
 ### AI made building synths easy. Now what do we build?
@@ -34,9 +42,10 @@ The engineers we're copying weren't trying to copy anyone. They were working wit
 
 I don't have all the answers, but I do believe new synthesis approaches are still waiting to be discovered. A few directions I keep coming back to:
 
-- **Hybrid instruments.** Blending synthesis with natural, human instruments, the idea from Developer Log #01. A bowed attack that blooms into a sound no string could make. A real piano hammer feeding a resonator that doesn't exist in the physical world. I just thinking that adding elements of sounds you find in your own studio or outside are inherently you and bring immense character to your project.
+- **Hybrid instruments.** Blending synthesis with natural, human instruments, the idea from Developer Log #01. A bowed attack that blooms into a sound no string could make. A real piano hammer feeding a resonator that doesn't exist in the physical world. I also think sounds you find in your own studio, or just outside it, are inherently yours, and they bring immense character to a project.
+
 - **Impossible physics.** Physical modeling doesn't have to model real objects. What does a glass drum sound like? A bell the size of a building? A string made of water?
-- **Instruments with behavior.** Probability, memory, and context, the ideas from Developer Log #03 on drum machines. Instruments that respond to the music around them instead of repeating the same output for the same input.
+- **Instruments with behavior.** Probability, memory, and context, the ideas from [Developer Log #04](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-04) on drum machines.. Instruments that respond to the music around them instead of repeating the same output for the same input.
 - **New interfaces, new gestures.** Every classic instrument shaped how people played it. New ways of touching and controlling sound will lead to music that couldn't be played before.
 
 Not every experiment will work. Most won't. That's the point.
