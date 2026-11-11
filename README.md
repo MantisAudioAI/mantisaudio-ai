@@ -5,6 +5,7 @@
 Welcome to our technical logbook exploring next-generation interactive audio tools. 
 
 ### 📄 Latest Articles
+- [Developer Log #06 — The Release Boom](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-06)
 - [Developer Log #05 — Beyond the Clone](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-05)
 - [Developer Log #04 — Probability and the Future of Drum Machines That Feel Real](Articles/devlog-04.md)
 - [Developer Log #03 — Beyond the Prototype](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-03)
