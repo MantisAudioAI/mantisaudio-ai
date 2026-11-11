@@ -8,7 +8,7 @@ image: Articles/devlog-06-banner.png
 
 # Developer Log #06 — The Release Boom
 
-### Speed got cheap. Thinking didn't.
+### Speed Got Cheap. Thinking Did Not.
 
 In [Developer Log #03](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-03), I wrote about what it takes to turn an AI-built prototype into audio software people can trust. In [Developer Log #05](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-05), I asked what we should build once cloning classic gear becomes easy.
 
