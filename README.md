@@ -5,6 +5,7 @@
 Welcome to our technical logbook exploring next-generation interactive audio tools. 
 
 ### 📄 Latest Articles
+- [Developer Log #08 — Raising the Bar](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-08)
 - [Developer Log #07 — Fading Memories, New Art](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-07)
 - [Developer Log #06 — The Release Boom](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-06)
 - [Developer Log #05 — Beyond the Clone](https://mantisaudioai.github.io/mantisaudio-ai/Articles/devlog-05)
